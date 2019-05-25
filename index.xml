@@ -1,14 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-    <description>Recent content on Academic</description>
+    <title>M. SABERIOON</title>
+    <link>https://saberioon.github.io/</link>
+    <description>Recent content on M. SABERIOON</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://saberioon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assessment of colour indices derived from conventional digital camera for determining nitrogen status in rice plants</title>
+      <link>https://saberioon.github.io/publication/saberioon-2013-assessment/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/saberioon-2013-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paddy soil nutrient assessment using visible and near infrared reflectance spectroscopy</title>
+      <link>https://saberioon.github.io/publication/gholizadeh-2013-paddy/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/gholizadeh-2013-paddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visible, near-infrared, and mid-infrared spectroscopy applications for soil assessment with emphasis on soil organic matter content and quality: State-of-the-art and key issues</title>
+      <link>https://saberioon.github.io/publication/gholizadeh-2013-visible/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/gholizadeh-2013-visible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Nitrogen of Rice In Different Growth Stages Using Tetracam Agriculture Digital Camera</title>
+      <link>https://saberioon.github.io/publication/saberioon-2012-estimation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/saberioon-2012-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal variability of SPAD chlorophyll meter readings and its relationship to total nitrogen in leaves within a Malaysian paddy field.</title>
+      <link>https://saberioon.github.io/publication/gholizadeh-2011-temporal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/gholizadeh-2011-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predict location (s) of Apis dorsata nesting sites using remote sensing and geographic information system in Melaleuca forest.</title>
+      <link>https://saberioon.github.io/publication/saberioon-2010-predict/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/saberioon-2010-predict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The study on the effect of different levels of zeolit and water stress on growth, development and essential oil content of moldavian balm (Dracocephalum moldavica L.).</title>
+      <link>https://saberioon.github.io/publication/gholizadeh-2010-study/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/gholizadeh-2010-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water stress and natural zeolite impacts on phisiomorphological characteristics of Moldavian balm (Dracocephalum moldavica L.).</title>
+      <link>https://saberioon.github.io/publication/gholizadeh-2010-water/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/gholizadeh-2010-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion SPOT-5 &amp; Radarsat-1 Images for Mapping Major Bee Plants in Marang District, Malaysia</title>
+      <link>https://saberioon.github.io/publication/saberioon-2009-fusion/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/saberioon-2009-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Use of Remote Sensing and Geographic Information System to Determine the Spatial Distribution of Melaleuca Cajuputi as a Major Bee Plant in Marang, Terengganu</title>
+      <link>https://saberioon.github.io/publication/saberioon-2009-use/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://saberioon.github.io/publication/saberioon-2009-use/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
