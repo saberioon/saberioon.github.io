@@ -6,10 +6,29 @@
     <description>Recent content on M. SABERIOON</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2019 22:01:47 +0200</lastBuildDate>
     
 	    <atom:link href="https://saberioon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine vision in Aquauclture</title>
+      <link>https://saberioon.github.io/project/mv_aquauclture/</link>
+      <pubDate>Sat, 25 May 2019 22:01:47 +0200</pubDate>
+      
+      <guid>https://saberioon.github.io/project/mv_aquauclture/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://saberioon.github.io/img/BC1.png&#34; alt=&#34;&#34; /&gt; Demands of aquatic products are increasing dramatically during past decades. Also quality assurance has gradually received more attention by both producers and consumers. Thus, fish producers are exploring all possible approaches for improving the productivity and profitability. Monitoring of fish state and behaviour during cultivation may help to improve profitability for producers and also reduce the threat of severe loss because of disease and stress incidents. It is necessary to evaluate and measure quality of fish products in accurate, fast and objective way for meeting the different demands of the fish‐processing industry after harvesting. Traditional methods are usually time‐consuming, expensive, laborious and invasive. Using rapid, inexpensive and noninvasive methods is therefore important and desirable. Optical sensors and machine vision system provide the possibility of developing faster, cheaper and noninvasive methods for in situ and after harvesting monitoring of quality in aquaculture.&lt;/p&gt;
+
+&lt;p&gt;One of my main focus is addressing application of machine vision systems in aquaculture. Selected published articles are as below :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A review : Application of machine vision system in aquaculture with emphasis on fish: state‐of‐the‐art and key issues &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.12143&#34; target=&#34;_blank&#34;&gt;read it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fish mass estimation using infrared reflection system &lt;a href=&#34;https://doi.org/10.1016/j.compag.2018.05.025&#34; target=&#34;_blank&#34;&gt;read it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tracking multiple fish using RGB-D sensor &lt;a href=&#34;https://doi.org/10.1016/j.compag.2015.12.014&#34; target=&#34;_blank&#34;&gt;read it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Application of digital imagery and machine learning in discriminating different live fish based on their diet received during cultivation &lt;a href=&#34;https://doi.org/10.3390/s18041027&#34; target=&#34;_blank&#34;&gt;read it&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Assessment of colour indices derived from conventional digital camera for determining nitrogen status in rice plants</title>

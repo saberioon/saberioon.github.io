@@ -6,9 +6,28 @@
     <description>Recent content in Tags on M. SABERIOON</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2019 22:01:47 +0200</lastBuildDate>
     
 	<atom:link href="https://saberioon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aquaculture</title>
+      <link>https://saberioon.github.io/tags/aquaculture/</link>
+      <pubDate>Sat, 25 May 2019 22:01:47 +0200</pubDate>
+      
+      <guid>https://saberioon.github.io/tags/aquaculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine vision</title>
+      <link>https://saberioon.github.io/tags/machine-vision/</link>
+      <pubDate>Sat, 25 May 2019 22:01:47 +0200</pubDate>
+      
+      <guid>https://saberioon.github.io/tags/machine-vision/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

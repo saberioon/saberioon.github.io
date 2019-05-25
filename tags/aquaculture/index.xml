@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aquaculture on M. SABERIOON</title>
+    <link>https://saberioon.github.io/tags/aquaculture/</link>
+    <description>Recent content in Aquaculture on M. SABERIOON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2019 22:01:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://saberioon.github.io/tags/aquaculture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine vision in Aquauclture</title>
+      <link>https://saberioon.github.io/project/mv_aquauclture/</link>
+      <pubDate>Sat, 25 May 2019 22:01:47 +0200</pubDate>
+      
+      <guid>https://saberioon.github.io/project/mv_aquauclture/</guid>
+      <description>Demands of aquatic products are increasing dramatically during past decades. Also quality assurance has gradually received more attention by both producers and consumers. Thus, fish producers are exploring all possible approaches for improving the productivity and profitability. Monitoring of fish state and behaviour during cultivation may help to improve profitability for producers and also reduce the threat of severe loss because of disease and stress incidents. It is necessary to evaluate and measure quality of fish products in accurate, fast and objective way for meeting the different demands of the fish‐processing industry after harvesting.</description>
+    </item>
+    
+  </channel>
+</rss>
