@@ -3,13 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saberioon.github.io/tags/aquaculture/</loc>
-    <lastmod>2019-05-25T22:01:47+02:00</lastmod>
+    <loc>https://saberioon.github.io/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://saberioon.github.io/</loc>
+    <loc>https://saberioon.github.io/project/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saberioon.github.io/tags/remote-sensing/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saberioon.github.io/project/soil_science/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberioon.github.io/tags/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saberioon.github.io/tags/contamination/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saberioon.github.io/tags/machine-learning/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saberioon.github.io/tags/soil-science/</loc>
+    <lastmod>2019-06-01T12:28:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saberioon.github.io/tags/aquaculture/</loc>
     <lastmod>2019-05-25T22:01:47+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -23,18 +64,6 @@
   <url>
     <loc>https://saberioon.github.io/project/mv_aquauclture/</loc>
     <lastmod>2019-05-25T22:01:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saberioon.github.io/project/</loc>
-    <lastmod>2019-05-25T22:01:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saberioon.github.io/tags/</loc>
-    <lastmod>2019-05-25T22:01:47+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

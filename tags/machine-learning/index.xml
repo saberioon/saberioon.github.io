@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on M. SABERIOON</title>
+    <link>https://saberioon.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on M. SABERIOON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 12:28:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://saberioon.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote sensing for soil contamination monitoring</title>
+      <link>https://saberioon.github.io/project/soil_science/</link>
+      <pubDate>Sat, 01 Jun 2019 12:28:20 +0200</pubDate>
+      
+      <guid>https://saberioon.github.io/project/soil_science/</guid>
+      <description>Soil degradation includes a number of processes, ranging from soil erosion to soil contamination, which reduce the capability of soil to work as a base for vegetation roots. Methods to quantify soil degradation due to contamination on a large area with a proper domain are needed and must be studied and developed. Proximal and remote sensing techniques are essential tools, well-suited for surveying large areas, and monitoring soil contamination at a high temporal and spatial interval.</description>
+    </item>
+    
+  </channel>
+</rss>

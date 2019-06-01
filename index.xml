@@ -6,10 +6,26 @@
     <description>Recent content on M. SABERIOON</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2019 22:01:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 12:28:20 +0200</lastBuildDate>
     
 	    <atom:link href="https://saberioon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Remote sensing for soil contamination monitoring</title>
+      <link>https://saberioon.github.io/project/soil_science/</link>
+      <pubDate>Sat, 01 Jun 2019 12:28:20 +0200</pubDate>
+      
+      <guid>https://saberioon.github.io/project/soil_science/</guid>
+      <description>&lt;p&gt;Soil degradation includes a number of processes, ranging from soil erosion to soil contamination, which reduce the capability of soil to work as a base for vegetation roots. Methods to quantify soil degradation due to contamination on a large area with a proper domain are needed and must be studied and developed. Proximal and remote sensing techniques are essential tools, well-suited for surveying large areas, and monitoring soil contamination at a high temporal and spatial interval. Recently developed and forthcoming satellites also dedicated to land monitoring and provide inimitable data streams, which have potential of soil contamination detection. This study peruses the potential of spectroscopy methods in various domains to assess selected soil contaminants including potentially toxic elements and petroleum hydrocarbons from reflectance information, plus a preliminary review of the new generation orbital Earth observation sensors. An aim is to review the means to do so from spaceborne sensors, which are considered to be state-of-the-art Earth orbit observation technologies. This review will help to answer the question: how can spectral information from proximal and remote sensing techniques in different domains be used for soil contamination modelling? This direction will pave the way for soil contamination monitoring using these techniques.&lt;/p&gt;
+
+&lt;p&gt;I was involved in several projects related to monitoring soil contaminations using remote sensing :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A review: Monitoring of Selected Soil Contaminants using Proximal and Remote Sensing Techniques: Background, State-of-the-Art and Future Perspectives [read it]{&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/10643389.2018.1447717&#34; target=&#34;_blank&#34;&gt;https://www.tandfonline.com/doi/abs/10.1080/10643389.2018.1447717&lt;/a&gt;}&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Machine vision in Aquauclture</title>
